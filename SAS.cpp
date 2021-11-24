@@ -106,9 +106,9 @@ do
 			scanf("%f",&S);
 			sold[position] += S;
 			a=0;
-			printf("\nWaiting...");
+			printf("\nAttendre...");
             s_sleep(2);
-            printf("\nDone.");
+            printf("\nTerminer.");
             s_sleep(2);
 		}
 		else  
@@ -135,9 +135,9 @@ do
 				if (S <= sold[position]){
 				sold[position] -= S;
 				a=0;
-                printf("\nWaiting...");
+                printf("\nAttendre...");
                 s_sleep(2);
-                printf("\nDone.");
+                printf("\nTerminer.");
                 s_sleep(2);
 			    }
 			    else if (S > sold[position])

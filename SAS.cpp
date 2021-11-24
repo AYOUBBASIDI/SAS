@@ -38,7 +38,7 @@
         current_time = time(NULL);
     }
 }
-int main (int argc, const char * argv[]) {
+int main () {
 //variables//////////////////////////////////////////////////////////////////////////////////////////////////////
 		int choixMenu,choixAffich;
 		char nom[30][50];

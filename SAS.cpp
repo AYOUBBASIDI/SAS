@@ -5,13 +5,13 @@
 	void menu(){
 	printf("\n============================Bienvenue dans *banque de triche*============================\n\n\n");
 	printf("\t\t\t\t======== Menu ========\n\n");
-	printf("\t\t\t\t1.Creation du compte \n");
-	printf("\t\t\t\t2.Creation du plusieurs comptes \n");
-	printf("\t\t\t\t3.Crediter un compte \n");
-	printf("\t\t\t\t4.Debiter un compte \n");
-	printf("\t\t\t\t5.Affichage : \n");
-	printf("\t\t\t\t6.La fidelidation\n");
-	printf("\t\t\t\t7.Quiter\n\n");
+	printf("\t\t\t\t1 . Creation du compte \n");
+	printf("\t\t\t\t2 . Creation du plusieurs comptes \n");
+	printf("\t\t\t\t3 . Crediter un compte \n");
+	printf("\t\t\t\t4 . Debiter un compte \n");
+	printf("\t\t\t\t5 . Affichage : \n");
+	printf("\t\t\t\t6 . La fidelidation\n");
+	printf("\t\t\t\t7 . Quiter\n\n");
     printf("\t\t\t\t======================\n\n");
     printf("Entrer votre choix:\n");    
 	}
